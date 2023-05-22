@@ -1,0 +1,11 @@
+C:\Users\nicka\source\repos\CALC_GUI\CALC_GUI\obj\Debug\CALC_GUI.csproj.AssemblyReference.cache
+C:\Users\nicka\source\repos\CALC_GUI\CALC_GUI\obj\Debug\CALC_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicka\source\repos\CALC_GUI\CALC_GUI\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\nicka\source\repos\CALC_GUI\CALC_GUI\obj\Debug\CALC_GUI.Properties.Resources.resources
+C:\Users\nicka\source\repos\CALC_GUI\CALC_GUI\obj\Debug\CALC_GUI.csproj.GenerateResource.cache
+C:\Users\nicka\source\repos\CALC_GUI\CALC_GUI\obj\Debug\CALC_GUI.csproj.CoreCompileInputs.cache
+C:\Users\nicka\source\repos\CALC_GUI\CALC_GUI\bin\Debug\CALC_GUI.exe.config
+C:\Users\nicka\source\repos\CALC_GUI\CALC_GUI\bin\Debug\CALC_GUI.exe
+C:\Users\nicka\source\repos\CALC_GUI\CALC_GUI\bin\Debug\CALC_GUI.pdb
+C:\Users\nicka\source\repos\CALC_GUI\CALC_GUI\obj\Debug\CALC_GUI.exe
+C:\Users\nicka\source\repos\CALC_GUI\CALC_GUI\obj\Debug\CALC_GUI.pdb
